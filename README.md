@@ -18,3 +18,7 @@ Command-line interface (CLI) engineered for the automated tokenization of Real W
 2. Install package dependencies:
    ```bash
    npm install
+## Execution
+Initialize the main script via `ts-node`:
+```bash
+npx ts-node src/index.ts
